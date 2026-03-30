@@ -138,7 +138,7 @@ header h2 {
 	text-align: center;
 }
 .banner-area .banner-img {
-	background-image: url(Resources/TOM_1578.JPEG);
+	background-image: url(Resources/TOM_1578.jpeg);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -197,14 +197,14 @@ ul.couple-content {
 }
 .couple-left{
 	flex-basis: 25%;
-	background-image: url(Resources/TOM_0764.JPEG);
+	background-image: url(Resources/TOM_0764.jpeg);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
 
 .couple-right2{
 	flex-basis: 25%;
-	background-image: url(Resources/TOM_0012.JPEG);
+	background-image: url(Resources/TOM_0012.jpeg);
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -286,7 +286,7 @@ ul.couple-content {
 .story-image-1 {
 	height: 100%;
 	width: 100%;
-	background-image: url(Resources/Wife.JPEG);
+	background-image: url(Resources/Wife.jpeg);
 	background-size: contain;
 	background-repeat: no-repeat;	
 	background-position: right;
@@ -295,7 +295,7 @@ ul.couple-content {
 .story-image-2 {
 	width: 100%;
 	height: 100%;
-	background-image: url(Resources/Husband.JPEG);	
+	background-image: url(Resources/Husband.jpeg);	
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: left;	
@@ -304,7 +304,7 @@ ul.couple-content {
 .story-image-3 {
 	width: 100%;
 	height: 100%;
-	background-image: url(Resources/story-3.JPEG);	
+	background-image: url(Resources/story-3.jpeg);	
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: right;	
@@ -313,7 +313,7 @@ ul.couple-content {
 .story-image-4 {
 	width: 100%;
 	height: 100%;
-	background-image: url(Resources/story-4.JPEG);	
+	background-image: url(Resources/story-4.jpeg);	
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: left;	
@@ -418,58 +418,58 @@ ul.couple-content {
 }
 
 .story-image-r1 {
-	background-image: url(Resources/R1-1.JPEG);
+	background-image: url(Resources/R1-1.jpeg);
 }
 .story-image-r2 {	
-	background-image: url(Resources/R1-2.JPEG);
+	background-image: url(Resources/R1-2.jpeg);
 	transform: translateX(-50%);
 	transition-delay: 100ms;
 }
 .story-image-r3 {
-	background-image: url(Resources/R1-3.JPEG);
+	background-image: url(Resources/R1-3.jpeg);
 	transform: translateX(-50%);
 	transition-delay: 200ms;
 }
 .story-image-r4 {
-	background-image: url(Resources/R1-4.JPEG);
+	background-image: url(Resources/R1-4.jpeg);
 	transform: translateX(-50%);
 	transition-delay: 300ms;
 }
 
 .story-image-r5 {
-	background-image: url(Resources/R2-1.JPEG);	
+	background-image: url(Resources/R2-1.jpeg);	
 }
 .story-image-r6 {
-	background-image: url(Resources/R2-2.JPEG);
+	background-image: url(Resources/R2-2.jpeg);
 	transform: translateX(-50%);
 	transition-delay: 100ms;
 }
 
 .story-image-r7 {
-	background-image: url(Resources/R3-1.JPEG);
+	background-image: url(Resources/R3-1.jpeg);
 	transform: translateX(50%);
 	transition-delay: 300ms;
 }
 .story-image-r8 {	
-	background-image: url(Resources/R3-2.JPEG);
+	background-image: url(Resources/R3-2.jpeg);
 	transform: translateX(50%);
 	transition-delay: 200ms;	
 }
 .story-image-r9 {
-	background-image: url(Resources/R3-3.JPEG);
+	background-image: url(Resources/R3-3.jpeg);
 	transform: translateX(50%);
 	transition-delay: 100ms;	
 }
 .story-image-r10 {
-	background-image: url(Resources/R3-4.JPEG);	
+	background-image: url(Resources/R3-4.jpeg);	
 }
 .story-image-r11 {
-	background-image: url(Resources/R4-1.JPEG);	
+	background-image: url(Resources/R4-1.jpeg);	
 	transform: translateX(50%);
 	transition-delay: 100ms;
 }
 .story-image-r12 {
-	background-image: url(Resources/R4-2.JPEG);	
+	background-image: url(Resources/R4-2.jpeg);	
 }
 
 .story-content-p {
