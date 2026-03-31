@@ -611,7 +611,7 @@ ul.couple-content {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-clip: content-box;
-	background-image: url(Resources/QR_1.PNG);
+	background-image: url(Resources/QR_1.png);
 }
 
 .thankyou-QR-bg-2 {
@@ -621,7 +621,7 @@ ul.couple-content {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-clip: content-box;
-	background-image: url(Resources/QR_2.PNG);
+	background-image: url(Resources/QR_2.png);
 }
 
 .thankyou-QR-bg-decor {
